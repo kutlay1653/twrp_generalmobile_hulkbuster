@@ -1,1 +1,7 @@
-# twrp_generalmobile_hulkbuster
+TWRP device tree for etab5
+========================================================
+
+For building TWRP only.
+Change kernel with your device's prebuilt one.
+
+
