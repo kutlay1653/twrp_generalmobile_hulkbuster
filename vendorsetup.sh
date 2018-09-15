@@ -1,1 +1,2 @@
-add_lunch_combo generalmobile_hulkbuster-eng
+add_lunch_combo omni_hulkbuster-eng
+add_lunch_combo omni_hulkbuster-userdebug
